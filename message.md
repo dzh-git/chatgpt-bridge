@@ -1,3 +1,1 @@
-CHATGPT_BRIDGE_MESSAGE 
-message_id: init 
-sent_at: initial
+如果成功读取了该文件，请回答：你好，我是gpt的chat。成功读取你的命令。
